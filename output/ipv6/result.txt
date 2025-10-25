@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2025-10-24 06:31:59,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25
+2025-10-25 18:35:15,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=6051cf0f824b7432a7e38cb90b50dbc8d5f9dbc684d357663ae821fb87ae233a45772b235431568e910e14c17b7496429d23d2b4b3501692941d1e6d364b2e35ccf5890eb0c31743c5dffaa2ef
 CCTV-3,https://jzb.wwkejishe.top/?id=580
-CCTV-4,https://www.freetv.top/migu/608807419.m3u8?migutoken=6a212f7bbb565d15fa1837af03bca5806c8d1522a2c9b34b1ed1c0f3cd23e6d7c4761bb6b35c9de97d923f603f557e6edb2ee11c80decc83bddea897b5c7ac59a7efea8e4796cbbfcf1b3fc93c
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=f4028150ccebb24672bb134ff9263dc2fa555f760bd7f0624f98a260402d38ab91417925cf800517a7c1b877a15425e85b65b6a16be7fe88d145c2cb2d42af684846c5a89a5c22eb739e0e52cf
 CCTV-5,https://jzb.wwkejishe.top/?id=582
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
@@ -18,6 +17,7 @@ CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=6711ae6ca5509da380a6
 CCTV-8,https://jzb.wwkejishe.top/?id=586
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=9cebd017730e6020100052694015764931490d9ade0a92839f3198d104590414f3e93626dcf6f49b091a21735b592dc818723022c59d669f301e707c1ec905675a758fc939301e086d4569e77d
 CCTV-9,https://jzb.wwkejishe.top/?id=587
+CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=c9f89ca38aecd9efd7438d02f07aae1d622407222b2143b84ac81a0b8046d4edf31dff9b382a346f7ec0e11cfbe4780dc7b671024edc7d941d9f8e52bc23439b00a4cd935c472de660659d90ae
 CCTV-10,https://jzb.wwkejishe.top/?id=588
 
 📡卫视频道,#genre#
@@ -34,10 +34,9 @@ CCTV-10,https://jzb.wwkejishe.top/?id=588
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 
 🌊港·澳·台,#genre#
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
@@ -47,23 +46,20 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 
 🎬电影频道,#genre#
-淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
-淘娱乐,http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,http://pullpackage.alivecdn.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qsJgqORFprvbBloK6NfqVBD.flv
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-五星体育,https://migu.188766.xyz/
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-睛彩广场舞,http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 🪁动画频道,#genre#
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
@@ -71,3 +67,5 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+天龙八部,https://live.metshop.top/huya/23903123
+西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
