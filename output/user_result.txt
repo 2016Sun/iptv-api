@@ -1,23 +1,21 @@
 🕘️更新时间,#genre#
-2026-06-11 22:17:52,https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-06-12 07:39:42,https://iptv.catvod.com/live.php?id=CCTV2&line=8
 
 📺央视频道,#genre#
-CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=8
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=7
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=10
 CCTV-4,http://198.204.228.26/live/cctv4hd.m3u8
-CCTV-4,http://223.75.149.129:9906/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=3
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=11
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=3
 CCTV-7,http://www.negative.top:50000/rtp/233.50.200.102:5140
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8&line=15
-CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=9b73d31612fe525017b680bb3dd8071f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=5
+CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=9b73d31612fe525017b680bb3dd8071f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=3
-CCTV-10,http://173.208.212.130:8181/1080p/cctv10.m3u8
 CCTV-10,http://207.56.13.146:81/cdnlive/cctv10.m3u8
+CCTV-10,http://173.208.212.130:8181/1080p/cctv10.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📡卫视频道,#genre#
@@ -25,29 +23,33 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=4
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
-浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=25b7c6480cc4c9facb82d1cdf13693ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2
-湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=3a2f9c81b8b580f1303e333f855c5f54&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=25b7c6480cc4c9facb82d1cdf13693ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=3a2f9c81b8b580f1303e333f855c5f54&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=0c90580e8be097c73a218656168e35e6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=14205fe676d226d4cdbd1d52fe782dc3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2
 山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
-深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=1371e3dfea2fb75cd0fb6e0b1fb6a33a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=0c90580e8be097c73a218656168e35e6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=2
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
+深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=1371e3dfea2fb75cd0fb6e0b1fb6a33a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 深圳卫视,http://198.204.228.26/live/szwshd.m3u8
 
 ☘️广东频道,#genre#
 广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1
 
 ☘️山东频道,#genre#
+山东少儿,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 山东少儿,http://58.57.40.22:9901/tsfile/live/1024_1.m3u8
 山东新闻,http://123.129.70.178:9901/tsfile/live/1000_1.m3u8
 山东农科,http://58.57.40.22:9901/tsfile/live/1022_1.m3u8
+山东齐鲁,http://123.130.84.106:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东生活,http://live.xmcdn.com/live/802/64.m3u8
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
+山东综艺,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8
 山东综艺,http://58.57.40.22:9901/tsfile/live/1021_1.m3u8
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
@@ -68,11 +70,11 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -108,8 +110,8 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 淘剧场,http://tnvcn.com:8012/rtp/239.3.1.95:8001
 淘娱乐,http://tnvcn.com:8012/rtp/239.3.1.100:8001
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
-IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
+IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
 东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8?q=111.170.171.148
@@ -118,6 +120,8 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 爱体育,rtsp://180.95.143.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227315/10000100000000060000000001946406_0.smil
@@ -132,14 +136,15 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 江苏体育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2
 睛彩广场舞,https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 🪁动画频道,#genre#
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -149,7 +154,6 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 新动漫,https://iptv.catvod.com/catvod?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=2
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
@@ -165,37 +169,42 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
 河北少儿科教,http://php.fjl626.cn/hebei.php?id=sekj
 七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
+火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
+经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎵音乐频道,#genre#
-CCTV-15,http://207.56.13.146:81/cdnlive/cctv15.m3u8
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=3
+CCTV-15,http://207.56.13.146:81/cdnlive/cctv15.m3u8
 风云音乐,http://107.150.60.122/live/fyyy.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
-笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
 笑傲江湖,https://live.metshop.top/huya/26355790
+笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
 笑傲江湖,https://alimov2.a.kwimgs.com/upic/2023/03/07/20/BMjAyMzAzMDcyMDMyNDdfNjE2NzgxMTQwXzk3NzEzNDY4NjgxXzBfMw==_b_B75baa98fedb7da382eb4a29e5f7df2bf.mp4
+天龙八部,https://live.metshop.top/huya/23903123
 天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816
-天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
+天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
 西游记,https://lbds.us.ci/26355861
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 西游记,http://8.155.43.98:35455/huya/20985836
+西游记,http://222.186.39.21:35466/huya/20985836
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
-水浒传,http://222.186.39.21:35466/huya/26355860
 水浒传,http://8.155.43.98:35455/huya/26355860
+水浒传,http://222.186.39.21:35466/huya/26355860
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
-射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
+射雕英雄传,https://live.metshop.top/huya/23824164
