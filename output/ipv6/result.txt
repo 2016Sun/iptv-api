@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-16 08:15:37,http://ls.qingting.fm/live/60260.m3u8
+2026-09-17 23:00:43,http://ls.qingting.fm/live/60260.m3u8
 
 📺央视频道,#genre#
 
@@ -26,16 +26,17 @@ Viutv,http://r.jdshipin.com/vSJvl
 
 🏀体育频道,#genre#
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+江苏体育,https://live.chinacert.cftest5.cn/cnmg/live/626064707
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 
 🪁动画频道,#genre#
-七龙珠,https://live.ottiptv.cc/huya/11601966
 七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 
@@ -49,7 +50,6 @@ Viutv,http://r.jdshipin.com/vSJvl
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,https://live.ottiptv.cc/huya/11602081
 水浒传,http://live.ottiptv.cc/huya/26355860
-水浒传,https://live.ottiptv.cc/yy/1353873252
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
 封神榜,https://live.metshop.top/huya/29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
