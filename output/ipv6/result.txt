@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-12 09:18:47,http://ls.qingting.fm/live/60180.m3u8
+2026-10-14 01:40:37,http://ls.qingting.fm/live/60180.m3u8
 
 📺央视频道,#genre#
 
@@ -30,21 +30,21 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
-经典动漫,http://luobo.bkpcp.top/yy/24180320
+猫和老鼠,https://live.metshop.top/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
+经典动漫,http://luobo.bkpcp.top/yy/24180320
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,https://live.metshop.top/huya/26355790
 笑傲江湖,https://live.ottiptv.cc/huya/26355790
+笑傲江湖,https://live.metshop.top/huya/26355790
 天龙八部,https://live.metshop.top/huya/23903123
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
-三国演义,https://live.metshop.top/huya/11602081
 三国演义,https://live.ottiptv.cc/huya/11602081
+三国演义,https://live.metshop.top/huya/11602081
 水浒传,https://live.ottiptv.cc/yy/1353873252
 水浒传,http://live.ottiptv.cc/huya/26355860
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
